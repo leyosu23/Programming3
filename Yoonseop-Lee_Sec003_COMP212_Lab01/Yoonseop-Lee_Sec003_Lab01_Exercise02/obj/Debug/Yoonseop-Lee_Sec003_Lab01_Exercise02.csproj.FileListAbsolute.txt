@@ -1,0 +1,5 @@
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab01\Yoonseop-Lee_Sec003_Lab01_Exercise02\bin\Debug\Yoonseop-Lee_Sec003_Lab01_Exercise02.exe.config
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab01\Yoonseop-Lee_Sec003_Lab01_Exercise02\bin\Debug\Yoonseop-Lee_Sec003_Lab01_Exercise02.exe
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab01\Yoonseop-Lee_Sec003_Lab01_Exercise02\bin\Debug\Yoonseop-Lee_Sec003_Lab01_Exercise02.pdb
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab01\Yoonseop-Lee_Sec003_Lab01_Exercise02\obj\Debug\Yoonseop-Lee_Sec003_Lab01_Exercise02.exe
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab01\Yoonseop-Lee_Sec003_Lab01_Exercise02\obj\Debug\Yoonseop-Lee_Sec003_Lab01_Exercise02.pdb

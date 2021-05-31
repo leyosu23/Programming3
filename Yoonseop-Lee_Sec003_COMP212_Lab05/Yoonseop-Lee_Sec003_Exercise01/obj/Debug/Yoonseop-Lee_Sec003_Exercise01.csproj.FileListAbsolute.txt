@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab05\Yoonseop-Lee_Sec003_Exercise01\bin\Debug\Yoonseop-Lee_Sec003_Exercise01.exe.config
+C:\Users\User\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab05\Yoonseop-Lee_Sec003_Exercise01\bin\Debug\Yoonseop-Lee_Sec003_Exercise01.exe
+C:\Users\User\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab05\Yoonseop-Lee_Sec003_Exercise01\bin\Debug\Yoonseop-Lee_Sec003_Exercise01.pdb
+C:\Users\User\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab05\Yoonseop-Lee_Sec003_Exercise01\obj\Debug\Yoonseop-Lee_Sec003_Exercise01.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab05\Yoonseop-Lee_Sec003_Exercise01\obj\Debug\Yoonseop_Lee_Sec003_Exercise01.Properties.Resources.resources
+C:\Users\User\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab05\Yoonseop-Lee_Sec003_Exercise01\obj\Debug\Yoonseop-Lee_Sec003_Exercise01.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab05\Yoonseop-Lee_Sec003_Exercise01\obj\Debug\Yoonseop-Lee_Sec003_Exercise01.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab05\Yoonseop-Lee_Sec003_Exercise01\obj\Debug\Yoonseop-Lee_Sec003_Exercise01.exe
+C:\Users\User\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab05\Yoonseop-Lee_Sec003_Exercise01\obj\Debug\Yoonseop-Lee_Sec003_Exercise01.pdb
+C:\Users\User\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab05\Yoonseop-Lee_Sec003_Exercise01\obj\Debug\Yoonseop_Lee_Sec003_Exercise01.AsynchronousProgramming.resources

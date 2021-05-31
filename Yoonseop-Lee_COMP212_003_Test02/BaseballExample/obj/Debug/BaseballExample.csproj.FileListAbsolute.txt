@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BaseballExample\bin\Debug\Baseball.mdf
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BaseballExample\bin\Debug\Baseball_log.ldf
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BaseballExample\bin\Debug\BaseballExample.dll.config
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BaseballExample\bin\Debug\BaseballExample.dll
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BaseballExample\bin\Debug\BaseballExample.pdb
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BaseballExample\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BaseballExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BaseballExample\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BaseballExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BaseballExample\obj\Debug\BaseballExample.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BaseballExample\obj\Debug\BaseballExample.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BaseballExample\obj\Debug\BaseballExample.csproj.CopyComplete
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BaseballExample\obj\Debug\BaseballExample.dll
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BaseballExample\obj\Debug\BaseballExample.pdb

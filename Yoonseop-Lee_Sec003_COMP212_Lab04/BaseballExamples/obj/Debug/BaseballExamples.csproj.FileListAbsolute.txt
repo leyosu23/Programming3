@@ -1,0 +1,12 @@
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab04\BaseballExamples\bin\Debug\Baseball.mdf
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab04\BaseballExamples\bin\Debug\Baseball_log.ldf
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab04\BaseballExamples\bin\Debug\BaseballExamples.dll.config
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab04\BaseballExamples\bin\Debug\BaseballExamples.dll
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab04\BaseballExamples\bin\Debug\BaseballExamples.pdb
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab04\BaseballExamples\bin\Debug\EntityFramework.dll
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab04\BaseballExamples\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab04\BaseballExamples\bin\Debug\EntityFramework.xml
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab04\BaseballExamples\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab04\BaseballExamples\obj\Debug\BaseballExamples.csproj.CopyComplete
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab04\BaseballExamples\obj\Debug\BaseballExamples.dll
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_COMP212_Lab04\BaseballExamples\obj\Debug\BaseballExamples.pdb

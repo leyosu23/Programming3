@@ -1,0 +1,12 @@
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise02\bin\Release\Yoonseop-Lee_Sec003_Lab02_Exercise02.exe.config
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise02\bin\Release\Yoonseop-Lee_Sec003_Lab02_Exercise02.exe
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise02\bin\Release\Yoonseop-Lee_Sec003_Lab02_Exercise02.pdb
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise02\obj\Release\Yoonseop-Lee_Sec003_Lab02_Exercise02.exe
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise02\obj\Release\Yoonseop-Lee_Sec003_Lab02_Exercise02.pdb
+C:\Users\User\Desktop\COMP212 Programming3\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise02\bin\Release\Yoonseop-Lee_Sec003_Lab02_Exercise02.exe.config
+C:\Users\User\Desktop\COMP212 Programming3\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise02\bin\Release\Yoonseop-Lee_Sec003_Lab02_Exercise02.exe
+C:\Users\User\Desktop\COMP212 Programming3\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise02\bin\Release\Yoonseop-Lee_Sec003_Lab02_Exercise02.pdb
+C:\Users\User\Desktop\COMP212 Programming3\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise02\obj\Release\Yoonseop-Lee_Sec003_Lab02_Exercise02.csprojAssemblyReference.cache
+C:\Users\User\Desktop\COMP212 Programming3\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise02\obj\Release\Yoonseop-Lee_Sec003_Lab02_Exercise02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\COMP212 Programming3\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise02\obj\Release\Yoonseop-Lee_Sec003_Lab02_Exercise02.exe
+C:\Users\User\Desktop\COMP212 Programming3\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise02\obj\Release\Yoonseop-Lee_Sec003_Lab02_Exercise02.pdb

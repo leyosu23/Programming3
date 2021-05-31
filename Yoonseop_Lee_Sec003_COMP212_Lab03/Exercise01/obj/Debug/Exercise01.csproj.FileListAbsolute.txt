@@ -1,0 +1,14 @@
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Exercise01\obj\Debug\Exercise01.csprojAssemblyReference.cache
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Exercise01\obj\Debug\MainWindow.g.cs
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Exercise01\obj\Debug\App.g.cs
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Exercise01\obj\Debug\Exercise01_MarkupCompile.cache
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Exercise01\obj\Debug\Exercise01_MarkupCompile.lref
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Exercise01\bin\Debug\Exercise01.exe.config
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Exercise01\bin\Debug\Exercise01.exe
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Exercise01\bin\Debug\Exercise01.pdb
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Exercise01\obj\Debug\MainWindow.baml
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Exercise01\obj\Debug\Exercise01.g.resources
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Exercise01\obj\Debug\Exercise01.Properties.Resources.resources
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Exercise01\obj\Debug\Exercise01.csproj.GenerateResource.cache
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Exercise01\obj\Debug\Exercise01.exe
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Exercise01\obj\Debug\Exercise01.pdb

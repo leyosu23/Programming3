@@ -1,0 +1,35 @@
+﻿<Window x:Class="Yoonseop_Lee_Ex01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Yoonseop_Lee_Ex01"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Order ID:" HorizontalAlignment="Left" Margin="77,87,0,0" VerticalAlignment="Top"/>
+        <Label Content="Customer Name:" HorizontalAlignment="Left" Margin="58,133,0,0" VerticalAlignment="Top"/>
+        <Label Content="Address:" HorizontalAlignment="Left" Margin="92,184,0,0" VerticalAlignment="Top"/>
+        <ListBox HorizontalAlignment="Left" Height="70" Margin="340,71,0,0" VerticalAlignment="Top" Width="135">
+            <RadioButton x:Name="RadioButtonSmall" Content="SMALL - $10.00" HorizontalAlignment="Left" VerticalAlignment="Top" IsChecked="True"/>
+            <RadioButton x:Name="RadioButtonMedium" Content="MEDIUM - $12.00" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+            <RadioButton x:Name="RadioButtonLarge" Content="Large - $14.00" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        </ListBox>
+        <CheckBox x:Name="CheckBoxOnion" Content="Onion" HorizontalAlignment="Left" Margin="616,120,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="CheckBoxTamato" Content="Tamatoes" HorizontalAlignment="Left" Margin="616,190,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.278,4.566"/>
+        <CheckBox x:Name="CheckBoxPepper" Content="Green Pepper" HorizontalAlignment="Left" Margin="616,157,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBoxOrderID" HorizontalAlignment="Left" Height="23" Margin="188,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxCustName" HorizontalAlignment="Left" Height="23" Margin="187,132,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxAddress" HorizontalAlignment="Left" Height="23" Margin="187,187,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Pizza Toppings: $2.00 each" HorizontalAlignment="Left" Margin="616,69,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="CheckBoxMushroom" Content="Mushroom" HorizontalAlignment="Left" Margin="616,224,0,0" VerticalAlignment="Top"/>
+        <Label Content="Registration Details:" HorizontalAlignment="Left" Margin="31,260,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextboxDetail" HorizontalAlignment="Left" Height="96" Margin="31,290,0,0" TextWrapping="Wrap" AcceptsReturn="True" VerticalScrollBarVisibility="Auto" VerticalAlignment="Top" Width="543"/>
+        <Label Content="Pizza Size" HorizontalAlignment="Left" Margin="373,30,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="ButtonOrder" Content="Order" HorizontalAlignment="Left" Margin="616,260,0,0" VerticalAlignment="Top" Width="122" Height="35" Click="ButtonSubmit_Click"/>
+        <TextBox x:Name="TextBoxTotal" HorizontalAlignment="Left" Height="23" Margin="454,245,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxSubTotal" HorizontalAlignment="Left" Height="23" Margin="454,202,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name="TextBoxTotal1" Content="Total(13% Tax):" HorizontalAlignment="Left" Margin="352,242,0,0" VerticalAlignment="Top"/>
+        <Label Content="Sub Total:" HorizontalAlignment="Left" Margin="379,207,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

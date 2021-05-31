@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BooksExample\bin\Debug\Books.mdf
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BooksExample\bin\Debug\Books_log.ldf
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BooksExample\bin\Debug\BooksExample.dll.config
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BooksExample\bin\Debug\BooksExample.dll
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BooksExample\bin\Debug\BooksExample.pdb
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BooksExample\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BooksExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BooksExample\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BooksExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BooksExample\obj\Debug\BooksExample.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BooksExample\obj\Debug\BooksExample.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BooksExample\obj\Debug\BooksExample.csproj.CopyComplete
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BooksExample\obj\Debug\BooksExample.dll
+C:\Users\User\Desktop\Yoonseop-Lee_COMP212_003_Test02\BooksExample\obj\Debug\BooksExample.pdb

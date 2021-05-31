@@ -1,0 +1,12 @@
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex02\bin\Debug\Yoonseop-Lee_Ex02.exe.config
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex02\bin\Debug\Yoonseop-Lee_Ex02.exe
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex02\bin\Debug\Yoonseop-Lee_Ex02.pdb
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex02\obj\Debug\Yoonseop-Lee_Ex02.csprojAssemblyReference.cache
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex02\obj\Debug\Yoonseop-Lee_Ex02.exe
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex02\obj\Debug\Yoonseop-Lee_Ex02.pdb
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test01\Yoonseop-Lee_Ex02\bin\Debug\Yoonseop-Lee_Ex02.exe.config
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test01\Yoonseop-Lee_Ex02\bin\Debug\Yoonseop-Lee_Ex02.exe
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test01\Yoonseop-Lee_Ex02\bin\Debug\Yoonseop-Lee_Ex02.pdb
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test01\Yoonseop-Lee_Ex02\obj\Debug\Yoonseop-Lee_Ex02.csprojAssemblyReference.cache
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test01\Yoonseop-Lee_Ex02\obj\Debug\Yoonseop-Lee_Ex02.exe
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test01\Yoonseop-Lee_Ex02\obj\Debug\Yoonseop-Lee_Ex02.pdb

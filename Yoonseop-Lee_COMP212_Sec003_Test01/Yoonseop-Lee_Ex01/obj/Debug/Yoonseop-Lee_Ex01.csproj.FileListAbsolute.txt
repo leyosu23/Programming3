@@ -1,0 +1,14 @@
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex01\bin\Debug\Yoonseop-Lee_Ex01.exe.config
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex01\bin\Debug\Yoonseop-Lee_Ex01.exe
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex01\bin\Debug\Yoonseop-Lee_Ex01.pdb
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex01\obj\Debug\Yoonseop-Lee_Ex01.csprojAssemblyReference.cache
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex01\obj\Debug\MainWindow.g.cs
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex01\obj\Debug\App.g.cs
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex01\obj\Debug\Yoonseop-Lee_Ex01_MarkupCompile.cache
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex01\obj\Debug\Yoonseop-Lee_Ex01_MarkupCompile.lref
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex01\obj\Debug\MainWindow.baml
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex01\obj\Debug\Yoonseop-Lee_Ex01.g.resources
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex01\obj\Debug\Yoonseop_Lee_Ex01.Properties.Resources.resources
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex01\obj\Debug\Yoonseop-Lee_Ex01.csproj.GenerateResource.cache
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex01\obj\Debug\Yoonseop-Lee_Ex01.exe
+C:\Users\leyos\Desktop\Yoonseop-Lee_COMP212_Sec003_Test\Yoonseop-Lee_Ex01\obj\Debug\Yoonseop-Lee_Ex01.pdb

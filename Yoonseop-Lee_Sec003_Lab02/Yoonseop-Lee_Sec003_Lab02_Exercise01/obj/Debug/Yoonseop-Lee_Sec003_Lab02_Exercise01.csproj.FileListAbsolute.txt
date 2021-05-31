@@ -1,0 +1,6 @@
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise01\bin\Debug\Yoonseop-Lee_Sec003_Lab02_Exercise01.exe.config
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise01\bin\Debug\Yoonseop-Lee_Sec003_Lab02_Exercise01.exe
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise01\bin\Debug\Yoonseop-Lee_Sec003_Lab02_Exercise01.pdb
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise01\obj\Debug\Yoonseop-Lee_Sec003_Lab02_Exercise01.exe
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise01\obj\Debug\Yoonseop-Lee_Sec003_Lab02_Exercise01.pdb
+C:\Users\leyos\Desktop\Yoonseop-Lee_Sec003_Lab02\Yoonseop-Lee_Sec003_Lab02_Exercise01\obj\Debug\Yoonseop-Lee_Sec003_Lab02_Exercise01.csprojAssemblyReference.cache

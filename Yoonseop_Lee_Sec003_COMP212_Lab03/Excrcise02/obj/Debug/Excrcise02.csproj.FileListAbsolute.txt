@@ -1,0 +1,6 @@
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Excrcise02\bin\Debug\Excrcise02.exe.config
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Excrcise02\bin\Debug\Excrcise02.exe
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Excrcise02\bin\Debug\Excrcise02.pdb
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Excrcise02\obj\Debug\Excrcise02.csprojAssemblyReference.cache
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Excrcise02\obj\Debug\Excrcise02.exe
+C:\Users\leyos\Desktop\Yoonseop_Lee_Sec003_COMP212_Lab03\Excrcise02\obj\Debug\Excrcise02.pdb
